@@ -12,4 +12,4 @@ Para cumplir este objetivo primero quiero desarrollar para Android de manera nat
 Si en algún momento tienes alguna sugerencia, consejo, o simplemente quieres contactarme en la parte de abajo estan mis redes, será bueno saber que hay alguien leyendo. (y)
 
 <a href="https://www.facebook.com/edwin.palaciosortiz/" class="fa fa-facebook" >
-FACEBOOK</a> - <a href="https://twitter.com/EdwinRtz" class="fa fa-twitter"> TWITTER</a> - <a href="https://www.linkedin.com/in/edwin-alonso-palacios-ortiz-2a7a111b9/" class="fa fa-linkedin" > LINKEDIN</a>
+FACEBOOK</a> - <a href="https://twitter.com/EdwiinRtz" class="fa fa-twitter"> TWITTER</a> - <a href="https://www.linkedin.com/in/edwin-alonso-palacios-ortiz-2a7a111b9/" class="fa fa-linkedin" > LINKEDIN</a>
